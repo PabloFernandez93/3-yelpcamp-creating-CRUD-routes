@@ -1,8 +1,8 @@
 
-- Creating CRUD Routes
+- Creating CRUD routes
 - Index.ejs, show.ejs, new.ejs 
 - Creating new campgrounds
-- parsing the request body
+- Parsing the request body
 - Editing, updating and deleting campgrounds
 
 How to run it:
